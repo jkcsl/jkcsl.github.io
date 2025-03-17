@@ -1,6 +1,8 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"极客沉思录的博客",
+    "subTitle":"https://jkcsl.github.io/",
+    "avatarUrl":"https://avatars.githubusercontent.com/u/173580274",
+    "GMEEK_VERSION":"last",
+    "onePageListNum":10,
+    "startSite":"03/15/2025"
 }
